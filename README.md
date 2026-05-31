@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NANI381C-181717?style=flat-square&logo=github)](https://github.com/NANI381C)
 [![Email](https://img.shields.io/badge/Email-simhamnagasai0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simhamnagasai0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simham-nagasai-42851a2a7)
 
 </div>
 
