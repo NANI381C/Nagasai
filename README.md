@@ -85,26 +85,6 @@ I'm an entry-level **Python Full Stack Developer** with a strong foundation in w
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NANI381C&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NANI381C/NANI381C/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 <div align="center">
 
 **Focused on Full Stack Development · Artificial Intelligence · Continuous Learning**
